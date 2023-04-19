@@ -12,10 +12,10 @@ Tutorial: [Flutter D Lux](https://www.youtube.com/@flutterdlux)
 1. [Intro](https://youtu.be/3-YB2Yhv_EQ)
 2. [Authorization](#2authorization)
 
-### 2.Authorization
+### 2. Authorization
 
 Build Authorization UI, then support light/dark theme.\
-Tutor: [Page](https://youtu.be/WD2sJJ9d2mk), [Theme]()
+Tutor: [Page](https://youtu.be/WD2sJJ9d2mk), [Theme](https://youtu.be/ODn_qX9QPF8)
 
 <p float="left">
     <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Authorization Page.jpg" alt="Authorization Page" width="200">
