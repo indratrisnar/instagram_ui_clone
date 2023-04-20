@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 import '../config/app_asset.dart';
+import '../config/nav.dart';
+import 'login_page.dart';
 
 class AuthorizationPage extends StatelessWidget {
   const AuthorizationPage({super.key});
@@ -36,7 +38,9 @@ class AuthorizationPage extends StatelessWidget {
                 width: double.infinity,
                 height: 40,
                 child: ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    Nav.push(context, const LoginPage());
+                  },
                   child: const Text('Log in'),
                 ),
               ),

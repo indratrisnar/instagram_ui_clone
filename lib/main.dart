@@ -12,12 +12,20 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      themeMode: ThemeMode.light,
+      themeMode: ThemeMode.dark,
+      theme: ThemeData.light().copyWith(
+        primaryColor: Colors.blue,
+        scaffoldBackgroundColor: Colors.white,
+        // textTheme: const TextTheme(
+        //   labelLarge: TextStyle(),
+        // ),
+      ),
       darkTheme: ThemeData.dark().copyWith(
+        primaryColor: Colors.blue,
         scaffoldBackgroundColor: Colors.black,
-        textTheme: const TextTheme(
-            // labelLarge: TextStyle(),
-            ),
+        // textTheme: const TextTheme(
+        //   labelLarge: TextStyle(),
+        // ),
       ),
       home: const AuthorizationPage(),
     );
