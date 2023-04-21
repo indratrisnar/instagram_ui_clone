@@ -32,3 +32,13 @@ Tutor: [Page](https://youtu.be/ad9WfVz6_I0), [Theme](https://youtu.be/n5dDXV197R
     <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Login Page.jpg" alt="Login Page" width="200">
     <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Login Page Dark.jpg" alt="Login Page Dark" width="200">
 </p>
+
+### 4. Dashboard
+
+Build Login UI, then support light/dark theme.\
+Tutor: [Bottom Navigation](https://youtu.be/0igqpSw8D54), [Theme](https://youtu.be/rHFAss5CtIY), [View](https://youtu.be/xQCgeWfW1ek)
+
+<p float="left">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Dashboard Page.jpg" alt="Login Page" width="200">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Dashboard Page Dark.jpg" alt="Login Page Dark" width="200">
+</p>

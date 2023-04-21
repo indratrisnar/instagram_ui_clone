@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 import '../config/app_asset.dart';
+import '../config/nav.dart';
+import 'dashboard/dashboard_page.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
@@ -94,7 +96,9 @@ class LoginPage extends StatelessWidget {
                     width: double.infinity,
                     height: 40,
                     child: ElevatedButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Nav.push(context, const DashboardPage());
+                      },
                       child: const Text('Log in'),
                     ),
                   ),
