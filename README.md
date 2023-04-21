@@ -12,6 +12,7 @@ Tutorial: [Flutter D Lux](https://www.youtube.com/@flutterdlux)
 1. [Intro](https://youtu.be/3-YB2Yhv_EQ)
 2. [Authorization](#2-authorization)
 3. [Login](#3-login)
+4. [Dashboard](#4-dashboard)
 
 ### 2. Authorization
 
