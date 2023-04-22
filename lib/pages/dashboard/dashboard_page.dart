@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../config/app_asset.dart';
+import 'home_view.dart';
 
 class DashboardPage extends StatefulWidget {
   const DashboardPage({super.key});
@@ -16,7 +17,7 @@ class _DashboardPageState extends State<DashboardPage> {
       'icon_active': AppAsset.navIconHomeActive,
       'icon_inactive': AppAsset.navIconHomeInactive,
       'label': 'Home',
-      'view': const Text('Home'),
+      'view': Homeview(),
     },
     {
       'icon_active': AppAsset.navIconSearchActive,
@@ -47,7 +48,9 @@ class _DashboardPageState extends State<DashboardPage> {
   Widget build(BuildContext context) {
     bool isDark = Theme.of(context).brightness == Brightness.dark;
     return Scaffold(
-      body: Center(child: dashboardMenu[currentIndex]['view']),
+      body: SafeArea(
+        child: dashboardMenu[currentIndex]['view'] as Widget,
+      ),
       bottomNavigationBar: Container(
         decoration: BoxDecoration(
           border: Border(

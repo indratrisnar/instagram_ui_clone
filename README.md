@@ -13,6 +13,7 @@ Tutorial: [Flutter D Lux](https://www.youtube.com/@flutterdlux)
 2. [Authorization](#2-authorization)
 3. [Login](#3-login)
 4. [Dashboard](#4-dashboard)
+5. [Home](#5-home)
 
 ### 2. Authorization
 
@@ -36,10 +37,21 @@ Tutor: [Page](https://youtu.be/ad9WfVz6_I0), [Theme](https://youtu.be/n5dDXV197R
 
 ### 4. Dashboard
 
-Build Login UI, then support light/dark theme.\
+Build Dashboard, then support light/dark theme.\
 Tutor: [Bottom Navigation](https://youtu.be/0igqpSw8D54), [Theme](https://youtu.be/rHFAss5CtIY), [View](https://youtu.be/xQCgeWfW1ek)
 
 <p float="left">
-    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Dashboard Page.jpg" alt="Login Page" width="200">
-    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Dashboard Page Dark.jpg" alt="Login Page Dark" width="200">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Dashboard Page.jpg" alt="Dashboard Page" width="200">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Dashboard Page Dark.jpg" alt="Dashboard Page Dark" width="200">
+</p>
+
+### 5. Home
+
+Build Home View, then support light/dark theme.\
+Header, Story, Live, Post.\
+Tutor: [Part 1](https://youtu.be/sqZLj3PM4uk), [Part 2](https://youtu.be/QYdGI482UKs), [Part 3](https://youtu.be/VMDjhJYifBE), [Theme](https://youtu.be/l5ze_i0XWCI),
+
+<p float="left">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Home View.jpg" alt="Home View" width="200">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Home View Dark.jpg" alt="Home View Dark" width="200">
 </p>

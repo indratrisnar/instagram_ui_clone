@@ -20,4 +20,12 @@ class AppAsset {
       'assets/bottom navigation/Icon Favorite Active.png';
   static const navIconFavoriteInactive =
       'assets/bottom navigation/Icon Favorite Inactive.png';
+
+  static const cameraIcon = 'assets/Camera Icon.png';
+  static const commentIcon = 'assets/Comment Icon.png';
+  static const igtvIcon = 'assets/IGTV Icon.png';
+  static const likeIcon = 'assets/Like Icon.png';
+  static const messangerIcon = 'assets/Messanger Icon.png';
+  static const officialIcon = 'assets/Official Icon.png';
+  static const saveIcon = 'assets/Save Icon.png';
 }
