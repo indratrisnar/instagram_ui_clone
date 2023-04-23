@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../config/app_asset.dart';
 import 'home_view.dart';
+import 'search_view.dart';
 
 class DashboardPage extends StatefulWidget {
   const DashboardPage({super.key});
@@ -23,7 +24,7 @@ class _DashboardPageState extends State<DashboardPage> {
       'icon_active': AppAsset.navIconSearchActive,
       'icon_inactive': AppAsset.navIconSearchInactive,
       'label': 'Search',
-      'view': const Text('Search'),
+      'view': SearchView(),
     },
     {
       'icon_active': AppAsset.navIconPlusInactive,

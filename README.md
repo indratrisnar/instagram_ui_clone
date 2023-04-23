@@ -14,6 +14,7 @@ Tutorial: [Flutter D Lux](https://www.youtube.com/@flutterdlux)
 3. [Login](#3-login)
 4. [Dashboard](#4-dashboard)
 5. [Home](#5-home)
+6. [Search](#6-search)
 
 ### 2. Authorization
 
@@ -54,4 +55,15 @@ Tutor: [Part 1](https://youtu.be/sqZLj3PM4uk), [Part 2](https://youtu.be/QYdGI48
 <p float="left">
     <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Home View.jpg" alt="Home View" width="200">
     <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Home View Dark.jpg" alt="Home View Dark" width="200">
+</p>
+
+### 6. Search
+
+Build Search View, then support light/dark theme.\
+Search Box, Categories, Post.\
+Tutor: [Part 1](https://youtu.be/l0bY2bZPW8k), [Part 2](https://youtu.be/_KFme22lGkE), [Theme](https://youtu.be/tDe3pBi2qaM),
+
+<p float="left">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Search View.jpg" alt="Search View" width="200">
+    <img src="https://github.com/indratrisnar/instagram_ui_clone/raw/master/pic/Search View Dark.jpg" alt="Search View Dark" width="200">
 </p>

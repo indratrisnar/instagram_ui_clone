@@ -28,4 +28,9 @@ class AppAsset {
   static const messangerIcon = 'assets/Messanger Icon.png';
   static const officialIcon = 'assets/Official Icon.png';
   static const saveIcon = 'assets/Save Icon.png';
+
+  static const galleryIcon = 'assets/Gallery Icon.png';
+  static const igtvIconFilled = 'assets/IGTV Icon Filled.png';
+  static const liveIcon = 'assets/Live Icon.png';
+  static const shopIconFilled = 'assets/Shop Icon Filled.png';
 }
